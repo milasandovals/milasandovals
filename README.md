@@ -21,7 +21,7 @@
 </div>
 
 ###
-
+<br />
 <h3 align="center">Current Tech Stack</h3>
 
 ###
@@ -67,14 +67,14 @@
 </div>
 
 ###
-<br /><br />
+<br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasandovals&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false" height="148" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=camilasandovals&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="148" alt="streak graph"  />
 </div>
 
 ###
-<br /><br />
+<br />
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=camilasandovals&theme=ayu-mirage" alt="Layout with last medium posts"  />
 </div>
