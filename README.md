@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Camila, a Software Engineer from South Florida 🌴</h2>
+<h2 align="center">Hi 👋! I'm Camila, a Software Engineer, from South Florida 🌴</h2>
 
 ###
 
@@ -9,9 +9,27 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=camilasandovals&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="148" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasandovals&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false" height="148" alt="languages graph"  />
+  <a href="https://www.instagram.com/foreigncoders/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/camilasandovals/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:csandoval.eng@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasandovals&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false" height="148" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=camilasandovals&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="148" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">Current Tech Stack:</h3>
 
 ###
 
@@ -36,22 +54,12 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/foreigncoders/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:csandoval.eng@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/camilasandovals/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=camilasandovals&theme=ayu-mirage" alt="Layout with last medium posts"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=camilasandovals&theme=ayu-mirage" alt="Layout with last medium posts"  />
-</div>
+<h3 align="left">Other technologies I have worked with:</h3>
 
 ###
 
@@ -71,4 +79,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="39" width="51" alt="matlab logo"  />
 </div>
 
+###
 
