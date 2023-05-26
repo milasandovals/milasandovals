@@ -22,7 +22,7 @@
 
 ###
 <br />
-<h3 align="center">Current Tech Stack</h3>
+<h3 align="center">TechnoVerse</h3>
 
 ###
 
@@ -43,13 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" width="45" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" width="45" alt="git logo"  />
 </div>
-
-###
-
-<h3 align="center">Other technologies I have worked with</h3>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="39" width="51" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="39" width="51" alt="googlecloud logo"  />
@@ -67,7 +60,7 @@
 </div>
 
 ###
-<br /><br />
+<br />
 
 <h3 align="center">Unveiling the Code Chronicles</h3>
 
