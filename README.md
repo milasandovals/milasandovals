@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋! I'm Camila, a Software Engineer, from South Florida 🌴</h1>
+<h2 align="center">Hi 👋! I'm Camila, a Software Engineer, from South Florida 🌴</h2>
 
 ###
-
+<br />
 <div align="center">
   <img height="330" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"  />
 </div>
