@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Camila, a Software Engineer, from South Florida 🌴</h2>
+<h2 align="center">Hi 👋! I'm Camila, a Software Engineer from South Florida 🌴</h2>
 
 ###
 
