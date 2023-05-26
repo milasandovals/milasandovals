@@ -53,12 +53,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=camilasandovals&theme=ayu-mirage" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <h3 align="center">Other technologies I have worked with</h3>
 
 ###
@@ -78,6 +72,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="39" width="51" alt="labview logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="39" width="51" alt="matlab logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=camilasandovals&theme=ayu-mirage" alt="Layout with last medium posts"  />
+</div>
+
 
 ###
 
