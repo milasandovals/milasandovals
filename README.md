@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="center">Current Tech Stack:</h3>
+<h3 align="center">Current Tech Stack</h3>
 
 ###
 
