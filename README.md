@@ -22,7 +22,7 @@
 
 ###
 <br />
-<h3 align="center">TechnoVerse</h3>
+<h3 align="center">Explore my TechnoVerse 🪐</h3>
 
 ###
 
@@ -62,7 +62,7 @@
 ###
 <br />
 
-<h3 align="center">Unveiling the Code Chronicles</h3>
+<h3 align="center">Unveiling the Code Chronicles 🔮</h3>
 
 ###
 <div align="center">
@@ -72,6 +72,9 @@
 
 ###
 <br />
+<h3 align="center"> Explore my Medium Articles 🚀 </h3>
+
+###
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=camilasandovals&theme=ayu-mirage" alt="Layout with last medium posts"  />
 </div>
