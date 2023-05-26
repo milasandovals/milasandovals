@@ -71,8 +71,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="39" width="51" alt="matlab logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/camilasandovals/camilasandovals/output/snake.svg" alt="Snake animation" />
-
-###
