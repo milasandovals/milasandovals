@@ -22,13 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasandovals&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false" height="148" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=camilasandovals&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="148" alt="streak graph"  />
-</div>
-
-###
-
 <h3 align="center">Current Tech Stack</h3>
 
 ###
@@ -71,6 +64,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="39" width="51" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="39" width="51" alt="labview logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="39" width="51" alt="matlab logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilasandovals&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ayu-mirage&hide_border=false" height="148" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=camilasandovals&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="148" alt="streak graph"  />
 </div>
 
 ###
