@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">Other technologies I have worked with:</h3>
+<h3 align="center">Other technologies I have worked with:</h3>
 
 ###
 
