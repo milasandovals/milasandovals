@@ -52,11 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="39" width="51" alt="kubernetes logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="39" width="51" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="39" width="51" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="39" width="51" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="39" width="51" alt="electron logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="39" width="51" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="39" width="51" alt="labview logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="39" width="51" alt="matlab logo"  />
 </div>
 
 ###
