@@ -68,15 +68,6 @@
   <img src="https://streak-stats.demolab.com?user=camilasandovals&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="148" alt="streak graph"  />
 </div>
 
-###
-<br />
-<h3 align="center"> Explore my Medium Articles 🚀 </h3>
-
-###
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=camilasandovals&theme=ayu-mirage" alt="Layout with last medium posts"  />
-</div>
-
 
 ###
 
